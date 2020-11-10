@@ -1,0 +1,13 @@
+C:\Users\Carlos\Downloads\cslox\bin\Debug\netcoreapp3.1\cslox.exe
+C:\Users\Carlos\Downloads\cslox\bin\Debug\netcoreapp3.1\cslox.deps.json
+C:\Users\Carlos\Downloads\cslox\bin\Debug\netcoreapp3.1\cslox.runtimeconfig.json
+C:\Users\Carlos\Downloads\cslox\bin\Debug\netcoreapp3.1\cslox.runtimeconfig.dev.json
+C:\Users\Carlos\Downloads\cslox\bin\Debug\netcoreapp3.1\cslox.dll
+C:\Users\Carlos\Downloads\cslox\bin\Debug\netcoreapp3.1\cslox.pdb
+C:\Users\Carlos\Downloads\cslox\obj\Debug\netcoreapp3.1\cslox.csprojAssemblyReference.cache
+C:\Users\Carlos\Downloads\cslox\obj\Debug\netcoreapp3.1\cslox.AssemblyInfoInputs.cache
+C:\Users\Carlos\Downloads\cslox\obj\Debug\netcoreapp3.1\cslox.AssemblyInfo.cs
+C:\Users\Carlos\Downloads\cslox\obj\Debug\netcoreapp3.1\cslox.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Downloads\cslox\obj\Debug\netcoreapp3.1\cslox.dll
+C:\Users\Carlos\Downloads\cslox\obj\Debug\netcoreapp3.1\cslox.pdb
+C:\Users\Carlos\Downloads\cslox\obj\Debug\netcoreapp3.1\cslox.genruntimeconfig.cache
